@@ -1,9 +1,29 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "TestBlock",
+      "type": "block",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "test_block"
+    },
+    {
+      "name": "Endtest",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "endtest"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "block.end.endtest": "Endtest",
+      "block.end.test_block": "Test Block"
+    }
   },
   "foldersRoot": {
     "name": "~",
