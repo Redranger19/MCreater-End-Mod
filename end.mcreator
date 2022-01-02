@@ -1,14 +1,6 @@
 {
   "mod_elements": [
     {
-      "name": "TestBlock",
-      "type": "block",
-      "sortid": 1,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "test_block"
-    },
-    {
       "name": "EndBiscuit",
       "type": "food",
       "sortid": 3,
@@ -31,8 +23,7 @@
     "en_us": {
       "item.end.poop": "Poop",
       "item.end.end_biscuit": "End Biscuit",
-      "item.end.poop.desc": "wow",
-      "block.end.test_block": "Test Block"
+      "item.end.poop.desc": "wow"
     }
   },
   "foldersRoot": {
