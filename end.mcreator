@@ -15,6 +15,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "poop"
+    },
+    {
+      "name": "EndBaker",
+      "type": "livingentity",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_baker"
     }
   ],
   "variable_elements": [],
@@ -22,6 +30,8 @@
   "language_map": {
     "en_us": {
       "item.end.poop": "Poop",
+      "item.end.end_baker_spawn_egg": "End Baker Spawn Egg",
+      "entity.end.end_baker": "End Baker",
       "item.end.end_biscuit": "End Biscuit",
       "item.end.poop.desc": "wow"
     }

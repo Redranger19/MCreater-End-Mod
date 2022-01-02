@@ -1,5 +1,7 @@
 {
   "item.end.poop": "Poop",
+  "item.end.end_baker_spawn_egg": "End Baker Spawn Egg",
+  "entity.end.end_baker": "End Baker",
   "item.end.end_biscuit": "End Biscuit",
   "item.end.poop.desc": "wow"
 }
