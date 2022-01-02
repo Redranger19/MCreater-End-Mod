@@ -1,0 +1,7 @@
+{
+  "_fv": 24,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<xml xmlns=\"https://developers.google.com/blockly/xml\"><block type=\"event_trigger\" deletable=\"false\" x=\"139\" y=\"43\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"gui_clear_slot\"><value name=\"slotid\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value><value name=\"entity\"><block type=\"entity_from_deps\"></block></value><next><block type=\"gui_set_items\"><value name=\"amount\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value><value name=\"item\"><block type=\"mcitem_all\"><field name=\"value\">CUSTOM:EndBiscuit</field></block></value><value name=\"slotid\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value><value name=\"entity\"><block type=\"entity_from_deps\"></block></value></block></next></block></next></block><block type=\"mcitem_allblocks\" x=\"197\" y=\"242\"><field name=\"value\"></field></block><block type=\"gui_remove_items\" x=\"454\" y=\"313\"><value name=\"amount\"><block type=\"math_number\"><field name=\"NUM\">1</field></block></value><value name=\"slotid\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value><value name=\"entity\"><block type=\"entity_from_deps\"></block></value></block><block type=\"gui_get_item_inslot\" x=\"243\" y=\"484\"><value name=\"slotid\"><block type=\"math_number\"><field name=\"NUM\">0</field></block></value><value name=\"entity\"><block type=\"entity_from_deps\"></block></value></block></xml>"
+  }
+}
