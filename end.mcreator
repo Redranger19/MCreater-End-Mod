@@ -15,12 +15,21 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "endtest"
+    },
+    {
+      "name": "EndBiscuit",
+      "type": "food",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "end_biscuit"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.end.end_biscuit": "End Biscuit",
       "block.end.endtest": "Endtest",
       "block.end.test_block": "Test Block"
     }
