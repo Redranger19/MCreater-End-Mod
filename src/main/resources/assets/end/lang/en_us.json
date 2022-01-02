@@ -1,4 +1,7 @@
 {
+  "item.end.poop": "Poop",
+  "item.end.end_biscuit": "End Biscuit",
   "block.end.endtest": "Endtest",
+  "item.end.poop.desc": "wow",
   "block.end.test_block": "Test Block"
 }
