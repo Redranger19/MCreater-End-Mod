@@ -15,13 +15,23 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "endtest"
+    },
+    {
+      "name": "Poop",
+      "type": "musicdisc",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "poop"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
+      "item.end.poop": "Poop",
       "block.end.endtest": "Endtest",
+      "item.end.poop.desc": "wow",
       "block.end.test_block": "Test Block"
     }
   },
